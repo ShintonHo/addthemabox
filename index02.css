@@ -1,0 +1,119 @@
+body {
+
+}
+
+
+h1 {
+	text-align: center;
+	color: #000000;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 100px; 
+
+}
+
+
+.introduction {
+	font-family: 'Cormorant Garamond', serif;
+   	padding: 250px 0px;
+	
+}
+
+.introduction h1 {
+    font-size: 100px;
+}
+
+.introduction p {
+	color: #000000;
+	font-size: 20px;
+
+}
+
+.timeline {
+	font-family: 'Cormorant Garamond', serif;
+   	padding: 500px 0px;
+}
+
+.timeline h1 {
+	font-size: 100px;
+}
+
+.timeline-left {
+	color: #000000;
+	font-size: 20px;
+	border-right: 1px solid #000000;
+}
+
+.timeline-left p {
+	color: #000000;
+	font-size: 17px;
+}
+
+
+.TL-numberright h1 {
+	color: #6b0000;
+	font-size: 80px;
+}
+
+.TL-numberleft {
+	border-right: 1px solid #000000;
+}
+
+.TL-numberleft h1 {
+	color: #6b0000;
+	font-size: 80px;
+}
+
+.timeline-right {
+	color: #000000;
+	font-size: 20px;
+}
+
+.timeline-right p {
+	color: #000000;
+	font-size: 17px;
+}
+
+.general {
+	font-family: 'Cormorant Garamond', serif;
+	padding-top: 350px;
+}
+
+.general p {
+	color: #000000;
+	font-size: 20px;
+}
+
+.general h1 {
+	font-size: 100px;
+}
+
+.videoSection {
+	font-family: 'Cormorant Garamond', serif;
+	padding-bottom: 100px;
+}
+
+.videoSection p {
+	color: #000000;
+	font-size: 20px;
+	padding: 5px
+}
+
+
+video {
+     display: block;
+     margin: 0 auto;
+}
+
+.map01 {
+
+}
+
+#footer {
+	text-align: center;
+    margin-top: 395px;
+   	font-family: 'Cormorant Garamond', serif;
+	color: #000000;
+	font-size: 15px;
+}
+
+
